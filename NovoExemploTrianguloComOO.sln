@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NovoExemploTrianguloComOO", "NovoExemploTrianguloComOO\NovoExemploTrianguloComOO.csproj", "{4200EEE5-BD93-4754-8FBC-10BFE1AD16AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4200EEE5-BD93-4754-8FBC-10BFE1AD16AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4200EEE5-BD93-4754-8FBC-10BFE1AD16AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4200EEE5-BD93-4754-8FBC-10BFE1AD16AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4200EEE5-BD93-4754-8FBC-10BFE1AD16AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDD4B9CB-B15D-4EE0-BD0E-E67FAD7E8070}
+	EndGlobalSection
+EndGlobal
